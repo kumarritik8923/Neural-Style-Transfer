@@ -1,15 +1,9 @@
-argparse
 torch
-pathlib
-numpy
-pillow
 torchvision
-tqdm
-
 flask
 flask-wtf
-flask_bootstrap
-werkzeug
+flask-bootstrap
 wtforms
 pillow
 gunicorn
+numpy
