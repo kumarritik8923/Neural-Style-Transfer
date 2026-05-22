@@ -1,0 +1,15 @@
+argparse
+torch
+pathlib
+numpy
+pillow
+torchvision
+tqdm
+
+flask
+flask-wtf
+flask_bootstrap
+werkzeug
+wtforms
+pillow
+gunicorn
